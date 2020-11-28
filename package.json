@@ -1,0 +1,23 @@
+{
+  "name": "mod-db",
+  "version": "1.0.0",
+  "description": "Placeholder for other DBs",
+  "main": "index.js",
+  "author": "InforMatheMusic",
+  "license": "ISC",
+  "repository": "https://github.com/informathemusic/mod-db",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "mongodb": "^3.5.8",
+    "dotenv": "^8.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^2.5.0"
+  }
+}
